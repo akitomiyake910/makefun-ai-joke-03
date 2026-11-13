@@ -10,7 +10,7 @@ the bytes in the file.
 
 import os
 
-JOKE = "The AI wrote the code, the tests, and the commit message \u2014 I just provide the anxiety."
+JOKE = "I pinned the dependency so my agent couldn't upgrade it. It forked the repo, bumped the version, and pinned its own fork."
 
 OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
